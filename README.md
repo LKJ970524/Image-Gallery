@@ -1,46 +1,127 @@
-# Getting Started with Create React App
+# [패스트 캠퍼스] 클론코딩 - Image gallery
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+<img src= https://github.com/FRONTENDSCHOOL6/Pet_Bridge/assets/115642699/60ab68eb-81bd-4db6-838f-8991d266d952 ></p>
 
-## Available Scripts
+</br>
+</br>
 
-In the project directory, you can run:
+### 📄 목차
 
-### `yarn start`
+[1. 프로젝트 기획 이유](#-1-프로젝트-기획-이유)</br>
+[2. 프로젝트 일정](#-2-프로젝트-일정)</br>
+[3. 기획자](#-3-기획자)</br>
+[4. 프로젝트 목표](#-4-프로젝트-목표)</br>
+[5. 개발 환경 및 기술 스택](#-5-개발-환경-및-기술-스택)</br>
+[6. 파일 구성](#-6-파일-구성)</br>
+[7. 결과물](#-7-결과물)</br>
+[8. 프로젝트 시연](#-8-시연-영상)</br>
+[9. 프로젝트 소감](#-9-프로젝트-소감)</br>
+[10. 프로젝트 사용법](#-10-프로젝트-사용법)</br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+</br>
+</br>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### 🐶 1. 프로젝트 기획 이유
 
-### `yarn test`
+- TypeScript를 배우며 미숙한 부분을 클론코딩으로 확실하게 배우고 싶었고 아는부분은 더 확실하게 짚고 넢어가고 싶었습니다.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  </br>
+  </br>
 
-### `yarn build`
+### ⚡ 2. 프로젝트 일정
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+> 프로젝트 기간 : 2023년 10월 25일 ~ 2023년 ......
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- 10월 25일 : 환경세팅 및 README 초안 적기 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  </br>
+  </br>
 
-### `yarn eject`
+### 🐾 3. 기획자
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+|                                     [이규정](https://github.com/LKJ970524)                                     |
+:------------------------------------------------------------------------------------------------------------: |
+![이미지](https://github.com/FRONTENDSCHOOL6/Pet_Bridge/assets/115642699/d3a91e9d-1652-42df-98a0-b72ff3e0f3df)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+</br>
+</br>
+ 
+### 🏅 4. 프로젝트 목표
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+> 결과보단 과정!
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- 완벽한 결과보단 클론코딩 프로젝트를 진행하는 과정에서 많은 지식과 경험을 얻어가는 것에 초점을 두기
+- 아는것은 더 완벽하게 알고 확실하게 내것으로 만들기
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<br>
+<br>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 🎃 5. 개발 환경 및 기술 스택
+
+##### 환경
+
+<img alt="git" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img alt="github" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+
+##### 언어
+
+<img alt="html5" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img alt="css" src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img alt="typescript" src ="https://img.shields.io/badge/Typescript-06B6D4.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/> <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img alt="react" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+
+</br>
+</br>
+
+### 📂 6. 파일 구성
+
+```
+📦src
+ ┣ 📜App.css
+ ┣ 📜App.test.tsx
+ ┣ 📜App.tsx
+ ┣ 📜index.css
+ ┣ 📜index.tsx
+ ┣ 📜logo.svg
+ ┣ 📜react-app-env.d.ts
+ ┣ 📜reportWebVitals.ts
+ ┗ 📜setupTests.ts
+```
+
+<br>
+
+### 😻 7. 결과물
+
+  </br>
+  </br>
+
+### 🎶 8. 시연 영상
+
+![Video Label](https://github.com/FRONTENDSCHOOL6/Pet_Bridge/assets/115642699/00ebbc8a-4bce-4921-b9b0-8e381c952f60)
+
+> 자세한 영상을 보고싶으시다면 YouTube을 클릭해주세요 <img src="https://github.com/FRONTENDSCHOOL6/Pet_Bridge/assets/115642699/c7e2e745-95ac-4c0e-b359-20a8028399d7" width="150"> &nbsp; <a href="https://youtu.be/uonvHOAkEX8" style="color:red">YouTube</a>&nbsp;로 이동됩니다.
+
+<br>
+<br>
+
+### 🎥 9. 프로젝트 소감
+
+<table>
+  <tr>
+    <th>이규정</th>
+    <td></td>
+  </tr>
+</table>
+<br>
+
+### 🦾 10. 프로젝트 사용법
+
+- 패키지 설치
+
+```
+npm i
+```
+
+- 클라이언트 실행
+
+```
+yarn start
+```
