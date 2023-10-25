@@ -1,7 +1,7 @@
 # [패스트 캠퍼스] 클론코딩 - Image gallery
 
 <p align="center">
-<img src= https://github.com/FRONTENDSCHOOL6/Pet_Bridge/assets/115642699/60ab68eb-81bd-4db6-838f-8991d266d952 ></p>
+<img src= https://github.com/LKJ970524/Image-Gallery/assets/115642699/7f28633b-c8c4-4697-a582-b1a9b5b66c99 ></p>
 
 </br>
 </br>
