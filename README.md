@@ -24,7 +24,7 @@
 
 ### 🐶 1. 프로젝트 기획 이유
 
-- TypeScript를 배우며 미숙한 부분을 클론코딩으로 확실하게 배우고 싶었고 아는부분은 더 확실하게 짚고 넢어가고 싶었습니다.
+- JavaScript와 TypeScript를 배우며 미숙한 부분을 클론코딩으로 확실하게 배우고 싶고, 내가 아는부분은 더 정확하고 확실하게 짚고 넢어가서 제것으로 만들고 싶었습니다.
 
   </br>
   </br>
@@ -34,13 +34,17 @@
 > 프로젝트 기간 : 2023년 10월 25일 ~ 2023년 10월 27일
 
 - 25일
-  2-1. 환경세팅 및 README 초안 적기
-  2-2. UI구현
+  1. 환경세팅 및 README 초안 적기
+  2. UI구현
 
 - 26일
-  2-1. 이미지 갤러리 로직 구현하기
-  2-2. 드래그 드롭 사용해여 ux 개선하기(바탕화면에서 드래그앤 드롭으로 사진 가져올수 있게 적용)
-  2-3. title 적용
+  1. 이미지 갤러리 로직 구현하기
+  2. 드래그 드롭 사용해여 ux 개선하기(바탕화면에서 드래그앤 드롭으로 사진 가져올수 있게 적용)
+  3. title 적용
+
+- 27일
+  1. README 작성
+  2. 코드 수정
 
   </br>
   </br>
@@ -58,8 +62,8 @@
 
 > 결과보단 과정!
 
-- 완벽한 결과보단 클론코딩 프로젝트를 진행하는 과정에서 많은 지식과 경험을 얻어가는 것에 초점을 두기
-- 아는것은 더 완벽하게 알고 확실하게 내것으로 만들기
+- 완벽한 결과보단 클론코딩 프로젝트를 진행하는 과정에서 많은 지식과 경험을 얻어가는 것에 초점을 두기.
+- 아는것은 더 완벽하게 알고 확실하게 내것으로 만들기.
 
 
 <br>
@@ -98,15 +102,18 @@
 <br>
 
 ### 😻 7. 결과물
+> 이미지 추가 전
+<img src="https://github.com/LKJ970524/Image-Gallery/assets/115642699/1ec9f0cb-cd6d-4d85-a839-9bb5eb9ee845" width="50%">
+
+> 이미지 추가 후
+<img src="https://github.com/LKJ970524/Image-Gallery/assets/115642699/1478d715-6611-445c-a954-d00fe0fd3a12" width="50%">
 
   </br>
   </br>
 
 ### 🎶 8. 시연 영상
 
-![Video Label](https://github.com/FRONTENDSCHOOL6/Pet_Bridge/assets/115642699/00ebbc8a-4bce-4921-b9b0-8e381c952f60)
-
-> 자세한 영상을 보고싶으시다면 YouTube을 클릭해주세요 <img src="https://github.com/FRONTENDSCHOOL6/Pet_Bridge/assets/115642699/c7e2e745-95ac-4c0e-b359-20a8028399d7" width="150"> &nbsp; <a href="https://youtu.be/uonvHOAkEX8" style="color:red">YouTube</a>&nbsp;로 이동됩니다.
+![Video Label](https://github.com/LKJ970524/Image-Gallery/assets/115642699/cb9d0557-0585-49bd-b8ff-c05181dee0ac)
 
 <br>
 <br>
@@ -116,7 +123,8 @@
 <table>
   <tr>
     <th>이규정</th>
-    <td></td>
+    <td>처음 써보는 typescript라서 확실히 어렵고 이미지 사용을 위한 드래그앤 드롭이 이러한 방식으로 사용되는 것을 처음 경험해보고 사용해 봤습니다.
+    어렵지만 하나씩 천천히 배워나가면서 계속 성장하는 개발자가 되기위해 노력할 것입니다.</td>
   </tr>
 </table>
 <br>
