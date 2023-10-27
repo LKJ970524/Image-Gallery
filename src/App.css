@@ -2,6 +2,13 @@ html {
   background: bisque;
 }
 
+footer {
+  font-family: 'Nanum Brush Script', 'cursive';
+  font-size: 20px;
+  display: flex;
+  justify-content: flex-end;
+}
+
 .text-center {
 	text-align: center;
   color: black;
