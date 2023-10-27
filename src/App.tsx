@@ -22,6 +22,10 @@ function App() {
   }, [])
   const {getRootProps, getInputProps} = useDropzone({onDrop})
 
+  const handleDeleteImage = (targetUrl: string) => {
+    setImageList((prev) => prev.filter((url) => url !== targetUrl));
+  };
+
   return (
     <div className="container">
       <div className={"gallery-box " + (imageList.length > 0 && "row")}>
@@ -33,7 +37,13 @@ function App() {
           </div>
         }
         {
-          imageList.map((el, idx) => <ImageBox key={el + idx} src={el} />)
+          imageList.map((el, idx) => 
+            <ImageBox 
+              key={el + idx} 
+              src={el} 
+              onDelete={handleDeleteImage} 
+            />
+          )
         }
         <div className="plus-box"
           {...getRootProps()}

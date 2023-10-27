@@ -1,6 +1,11 @@
 import React, { useState } from 'react';
 
-function ImageBox(props: {src: string}) {
+interface ImageBoxProps {
+  src: string;
+  onDelete: (url: string) => void;
+}
+
+function ImageBox({ src, onDelete }: ImageBoxProps) {
   const [isModalOpen, setIsModalOpen] = useState(false);
 
   const handleImageClick = () => {
@@ -19,15 +24,21 @@ function ImageBox(props: {src: string}) {
     e.stopPropagation();
   };
 
+  const handleDeleteClick = (e: React.MouseEvent) => {
+    e.stopPropagation();
+    onDelete(src);
+  };
+
   return (
     <div className="image-box">
-      <img src={props.src} onClick={handleImageClick} />
+      <button className='delete' onClick={handleDeleteClick}>Delete</button>
+      <img src={src} onClick={handleImageClick} />
 
       {isModalOpen && (
         <div className="modal" onClick={handleModalBackgroundClick}>
           <div className="modal-content" onClick={handleModalContentClick}>
             <span className="close" onClick={handleCloseModal}>&times;</span>
-            <img src={props.src} />
+            <img src={src} />
           </div>
         </div>
       )}
