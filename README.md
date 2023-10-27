@@ -106,7 +106,7 @@
 <img src="https://github.com/LKJ970524/Image-Gallery/assets/115642699/2c279681-6150-4527-b56f-f041839f4a6b" width="50%">
 
 > 이미지 추가 후
-<img src="https://github.com/LKJ970524/Image-Gallery/assets/115642699/1478d715-6611-445c-a954-d00fe0fd3a12" width="50%">
+<img src="https://github.com/LKJ970524/Image-Gallery/assets/115642699/c68c86e8-d913-4a9d-9f07-edecf46a61f4" width="50%">
 
   </br>
   </br>
