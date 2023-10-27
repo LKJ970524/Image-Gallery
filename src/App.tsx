@@ -43,6 +43,12 @@ function App() {
           />
           +
         </div>
+        {
+          imageList.length === 0 &&
+          <div className="text-center">
+            자신이 좋아하는 사진을 넣어서 예쁘게 꾸며보세요~
+          </div>
+        }
       </div>
     </div>
   );
