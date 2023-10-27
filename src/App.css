@@ -2,12 +2,11 @@ html {
   background: bisque;
 }
 
-
 .text-center {
 	text-align: center;
   color: black;
   font-size: 28px;
-  font-family: 'Nanum Brush Script', cursive;
+  font-family: 'Nanum Brush Script', 'cursive';
 }
 
 .plus-box {
