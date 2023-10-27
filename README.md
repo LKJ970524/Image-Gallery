@@ -99,17 +99,20 @@
 
 ### 😻 7. 결과물
 > 이미지 추가 전
-<img src="https://github.com/LKJ970524/Image-Gallery/assets/115642699/2c279681-6150-4527-b56f-f041839f4a6b" width="50%">
+<img src="https://github.com/LKJ970524/Image-Gallery/assets/115642699/fb954944-2005-46b0-a202-3dc1e4aa7385" width="50%">
 
 > 이미지 추가 후
-<img src="https://github.com/LKJ970524/Image-Gallery/assets/115642699/c68c86e8-d913-4a9d-9f07-edecf46a61f4" width="50%">
+<img src="https://github.com/LKJ970524/Image-Gallery/assets/115642699/f2144158-c570-419d-a7af-98e047d89f1f" width="50%">
+
+> 모달창
+<img src="https://github.com/LKJ970524/Image-Gallery/assets/115642699/280b64da-58b6-48cb-87c3-66c0895e9cdf" width="50%">
 
   </br>
   </br>
 
 ### 🎶 8. 시연 영상
 
-![Video Label](https://github.com/LKJ970524/Image-Gallery/assets/115642699/fc2e0ae7-8e9b-4396-828c-1b2948560803)
+![Video Label](https://github.com/LKJ970524/Image-Gallery/assets/115642699/ead9d3e1-2205-4c12-b05b-17464e16561c)
 
 <br>
 <br>
