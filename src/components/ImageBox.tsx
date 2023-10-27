@@ -11,14 +11,24 @@ function ImageBox(props: {src: string}) {
     setIsModalOpen(false);
   };
 
+  const handleModalBackgroundClick = () => {
+    setIsModalOpen(false);
+  };
+
+  const handleModalContentClick = (e: React.MouseEvent) => {
+    e.stopPropagation();
+  };
+
   return (
     <div className="image-box">
       <img src={props.src} onClick={handleImageClick} />
 
       {isModalOpen && (
-        <div className="modal">
-          <span className="close" onClick={handleCloseModal}>&times;</span>
-          <img className="modal-content" src={props.src} />
+        <div className="modal" onClick={handleModalBackgroundClick}>
+          <div className="modal-content" onClick={handleModalContentClick}>
+            <span className="close" onClick={handleCloseModal}>&times;</span>
+            <img src={props.src} />
+          </div>
         </div>
       )}
     </div>
