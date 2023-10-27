@@ -101,8 +101,12 @@
 > 이미지 추가 전
 <img src="https://github.com/LKJ970524/Image-Gallery/assets/115642699/fb954944-2005-46b0-a202-3dc1e4aa7385" width="50%">
 
+</br>
+
 > 이미지 추가 후
 <img src="https://github.com/LKJ970524/Image-Gallery/assets/115642699/f2144158-c570-419d-a7af-98e047d89f1f" width="50%">
+
+</br>
 
 > 모달창
 <img src="https://github.com/LKJ970524/Image-Gallery/assets/115642699/280b64da-58b6-48cb-87c3-66c0895e9cdf" width="50%">
